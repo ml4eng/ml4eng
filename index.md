@@ -26,8 +26,7 @@ Examples of specific research topics we wish to see addressed (via submitted pap
 - Development of software and libraries which enable all of the above,
 - Identification of applications and pressing challenges/opportunities, related or unrelated to the above points, in the application of ML to engineering workflows.
 
-Our goals are to ``bridge the divide" between the engineering and machine learning communities, and to provide a venue for discussion of challenges and promising emerging methods for applying ML to engineering.
-
+Our goals are to ''bridge the divide" between the engineering and machine learning communities, and to provide a venue for discussion of challenges and promising emerging methods for applying ML to engineering.
 
 # Organizers
 - Alex Beatson
