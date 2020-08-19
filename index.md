@@ -114,8 +114,8 @@ Submissions should be one-to-two-page extended abstracts, formatted according to
 Submitted abstracts should describe:
 - the topic of discussion
 - any relevant background material
-- why it is of interest to this community
-- different perspectives that different sub-communities might bring to the table
+- why the topic is of interest to this community
+- an idea of different perspectives that different sub-communities might bring to the table
 - how it might encourage building connections and collaborations
 - any relevant experience or background of the authors
 
