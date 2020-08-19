@@ -29,8 +29,8 @@ We welcome submission of 4-6 page papers, tutorials/demos, and topics for round-
 Our goals are to ''bridge the divide" between the engineering and machine learning communities, and to provide a venue for discussion of challenges and promising emerging methods for applying ML to engineering.
 
 <a name="organizers">
-</a>
 # Organizers
+</a>
 - Alex Beatson
 - Priya L. Donti
 - Amira Abdel-Rahman
