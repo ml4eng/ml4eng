@@ -49,8 +49,21 @@ Our goals are to ''bridge the divide" between the engineering and machine learni
 - Vladlen Koltun
 
 <a name="calls"> 
+# Calls
+We welcome submission of papers as well as proposals for tutorials, demonstrations, and discussions to hold during the workshop.
+    
+All calls share the following dates:
+- Submission deadline: Oct 02, 2020
+- Author notification: Oct 30, 2020
+
 # Call for papers
-We welcome submission of papers on original completed research or high-quality work-in-progress, investigations/expositions of open problems, datasets, reviews/synthesis of recent work, or anything else relevant to our topics and of interest to the community. 
+Papers may be:
+- original completed research or high-quality work-in-progress
+- investigations/expositions of open problems
+- datasets
+- reviews/synthesis of recent work
+- anything else relevant to our topics and of interest to the community 
+
 Papers must be formatted according to the NeurIPS 2020 style. 
 There is a hard maximum of 6 pages (both excluding references or supplementary materials). We encourage authors to use fewer pages if appropriate for their contribution.
     
@@ -58,12 +71,13 @@ Reviewing will be double-blind, so all papers must be anonymized.
 
 Papers must not have been previously presented or accepted for presentation at an archival venue. However, this workshop is non-archival, and papers submitted to this workshop may be (concurrently or later) submitted to an archival venue.
 
-- Submission deadline: Oct 02, 2020
-- Author notification: Oct 30, 2020
+
 
 # Call for tutorials
-We welcome submission of tutorials. Submissions should be two-page extended abstracts, formatted according to the NeurIPS style. 
 Tutorials should be 30-45 minute hands-on mini-hackathons or demonstrator-led interactive sessions with specific software or methods: examples might include tutorials on classical subjects like the adjoint approach to PDE-constrained optimization or the basics of design with CAD software, as well as  interactive  demos / coding  sessions focussed on recent work, such as recently released libraries or recently published methods. 
+
+Submissions should be two-page extended abstracts, formatted according to the NeurIPS style. 
+
 Submitted abstracts should describe:
 - the content which the tutorial will cover
 - how this will be covered (e.g. interactive coding, live instructor demonstration, ...)
@@ -84,14 +98,17 @@ Submitted abstracts should describe:
 - whether the demonstration will run in an asynchronous "drop in" fashion or with scheduled sessions
 - a concrete description of how the demo will run virtually and the technology platforms used
 
-- Submission deadline: Oct 02, 2020
-- Author notification: Oct 30, 2020
+
 
 # Call for discussions
-We welcome submission of topics for facilitated round-table discussion. Submissions should be one-to-two-page extended abstracts, formatted according to the NeurIPS style. 
 Discussions will take place in a 30-45 minute facilitated round-table format. Topics should be of interest to the community, and should encourage building connections and collaborations across attendees.
+
 Example topics include open research problems, the connections or differences between specific techniques used by different communities, discussions about how research is done or how communities interact, or anything else which meets the aforementioned goals.
-Authors of accepted discussion topics will be expected to help facilitate the discussion (possibly alongside organizers or other outside experts).
+
+Authors of accepted discussion topics will be expected to help facilitate and take part in the discussion (possibly alongside organizers or other experts).
+
+Submissions should be one-to-two-page extended abstracts, formatted according to the NeurIPS style. 
+
 Submitted abstracts should describe:
 - the topic of discussion
 - any relevant background material
