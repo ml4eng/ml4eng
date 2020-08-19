@@ -56,7 +56,7 @@ All calls share the following dates:
 - Submission deadline: Oct 02, 2020
 - Author notification: Oct 30, 2020
 
-# Call for papers
+## Call for papers
 Papers may be:
 - original completed research or high-quality work-in-progress
 - investigations/expositions of open problems
@@ -73,7 +73,7 @@ Papers must not have been previously presented or accepted for presentation at a
 
 
 
-# Call for tutorials
+## Call for tutorials
 Tutorials should be 30-45 minute hands-on mini-hackathons or demonstrator-led interactive sessions with specific software or methods: examples might include tutorials on classical subjects like the adjoint approach to PDE-constrained optimization or the basics of design with CAD software, as well as  interactive  demos / coding  sessions focussed on recent work, such as recently released libraries or recently published methods. 
 
 Submissions should be two-page extended abstracts, formatted according to the NeurIPS style. 
@@ -88,7 +88,7 @@ Submitted abstracts should describe:
 - Submission deadline: Oct 02, 2020
 - Author notification: Oct 30, 2020
 
-# Call for demonstrations
+## Call for demonstrations
 We welcome submission of demonstrations. Submissions should be two-page extended abstracts, formatted according to the NeurIPS style. 
 Demonstrations should be interactive virtual experiences which showcase novel technology. The audience should be able to experience the demonstration in a brief time period - whether by "dropping in" for a few minutes, or by attending a short, regularly scheduled session. Interaction with the audience is a crucial element.
 Submitted abstracts should describe:
@@ -100,7 +100,7 @@ Submitted abstracts should describe:
 
 
 
-# Call for discussions
+## Call for discussions
 Discussions will take place in a 30-45 minute facilitated round-table format. Topics should be of interest to the community, and should encourage building connections and collaborations across attendees.
 
 Example topics include open research problems, the connections or differences between specific techniques used by different communities, discussions about how research is done or how communities interact, or anything else which meets the aforementioned goals.
