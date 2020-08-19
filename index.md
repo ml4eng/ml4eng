@@ -4,7 +4,6 @@ layout: default
 
 <a name="about"> 
 # About
-</a> 
 
 Modern engineering workflows are built on computational tools for specifying models and designs, 
 for numerical analysis of system behavior, and for optimization, model-fitting and rational design. 
@@ -30,7 +29,6 @@ Our goals are to ''bridge the divide" between the engineering and machine learni
 
 <a name="organizers"> 
 # Organizers
-</a> 
 
 - Alex Beatson
 - Priya L. Donti
@@ -42,7 +40,6 @@ Our goals are to ''bridge the divide" between the engineering and machine learni
 
 <a name="speakers"> 
 # Invited speakers
-</a> 
 
 - Peter Battaglia
 - Angela Dai
@@ -53,7 +50,6 @@ Our goals are to ''bridge the divide" between the engineering and machine learni
 
 <a name="calls"> 
 # Call for papers
-</a> 
 
 Coming soon
 
@@ -65,5 +61,4 @@ Coming soon
 
 <a name="schedule"> 
 # Schedule 
-</a>
 Coming not-so-soon
