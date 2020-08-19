@@ -14,7 +14,7 @@ generative models of 3d objects,
 and ML-driven methods for efficient design optimization. 
 However, many questions remain to be answered before these methods become practically useful. 
 
-Examples of specific research topics we wish to see addressed (via submitted papers, or via collaborations and ideas that grow out of interaction at the workshop) include, but are not limited to:
+We welcome submission of 4-6 page papers, tutorials/demos, and topics for round-table discussions. Examples of research topics we wish to see addressed include, but are not limited to:
 - Learning surrogate and reduced-order models for physical simulators which reduce computational costs while maintaining accuracy against strong baselines,
 - Ensuring learned surrogates reliably generalize across scenarios for which they might be used, and provide error estimates and measures of uncertainty,
 - Using machine learning to accelerate design optimization, or system identification and control, while respecting constraints, remaining robust to model or simulator error, and producing designs, estimators and policies which are practical in the real world,
