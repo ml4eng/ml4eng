@@ -5,7 +5,6 @@ layout: default
 <a name="about">
 # About
 </a>
-
 Modern engineering workflows are built on computational tools for specifying models and designs, 
 for numerical analysis of system behavior, and for optimization, model-fitting and rational design. 
 How can machine learning be used to empower the engineer?
@@ -40,8 +39,8 @@ Our goals are to ''bridge the divide" between the engineering and machine learni
 - Ryan P. Adams
 
 <a name="speakers">
-</a>
 # Invited speakers
+</a>
 - Peter Battaglia
 - Angela Dai
 - Grace X. Gu
