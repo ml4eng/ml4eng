@@ -30,23 +30,23 @@ Our goals are to ''bridge the divide" between the engineering and machine learni
 <a name="organizers"> 
 # Organizers
 
-- Alex Beatson
-- Priya L. Donti
-- Amira Abdel-Rahman
-- Stephan Hoyer
-- Rose Yu
-- J. Zico Kolter
-- Ryan P. Adams
+- [Alex Beatson](https://www.cs.princeton.edu/~abeatson/)
+- [Priya L. Donti](http://priyadonti.com/)
+- [Amira Abdel-Rahman](https://amiraa.pages.cba.mit.edu/home/)
+- [Stephan Hoyer](http://stephanhoyer.com/)
+- [Rose Yu](http://roseyu.com/)
+- [J. Zico Kolter](http://zicokolter.com/)
+- [Ryan P. Adams](https://www.cs.princeton.edu/~rpa/)
 
 <a name="speakers"> 
 # Invited speakers
 
-- Peter Battaglia
-- Angela Dai
-- Grace X. Gu
-- Tatiana Lopez-Guevara
-- Karen E. Willcox
-- Vladlen Koltun
+- [Peter Battaglia](https://scholar.google.com/citations?user=nQ7Ij30AAAAJ&hl=en)
+- [Angela Dai](https://angeladai.github.io/)
+- [Grace X. Gu](https://gu.berkeley.edu/)
+- [Tatiana Lopez-Guevara](http://zepolitat.co/)
+- [Karen E. Willcox](https://kiwi.oden.utexas.edu/)
+- [Vladlen Koltun](http://vladlen.info/)
 
 <a name="calls"> 
 # Calls
