@@ -61,14 +61,14 @@ Websites for submission will be posted closer to the date.
 ## Call for papers
 Papers may be submitted on:
 - original completed research or high-quality work-in-progress
-- investigations or expositions of open problems
+- investigations or expositions of open problems or important phenomena
 - datasets
 - reviews/synthesis of recent work
 - written tutorials on important concepts
 - anything else relevant to our topics and of interest to the community 
 
 Papers must be formatted according to the NeurIPS 2020 style. 
-There is a hard maximum of 6 pages (both excluding references or supplementary materials). We encourage authors to use fewer pages if appropriate for their contribution.
+There is a hard maximum of 6 pages (excluding references or supplementary materials). Shorter is better: we encourage authors to use as few pages as they can, while adequately explaining their work and topic.
     
 Reviewing will be double-blind, so all papers must be anonymized.
 
