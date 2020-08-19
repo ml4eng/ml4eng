@@ -56,6 +56,8 @@ All calls share the following dates:
 - Submission deadline: Oct 02, 2020
 - Author notification: Oct 30, 2020
 
+Websites for submission will be posted closer to the date.
+
 ## Call for papers
 Papers may be:
 - original completed research or high-quality work-in-progress
@@ -72,11 +74,10 @@ Reviewing will be double-blind, so all papers must be anonymized.
 Papers must not have been previously presented or accepted for presentation at an archival venue. However, this workshop is non-archival, and papers submitted to this workshop may be (concurrently or later) submitted to an archival venue.
 
 
-
 ## Call for tutorials
 Tutorials should be 30-45 minute hands-on mini-hackathons or demonstrator-led interactive sessions with specific software or methods: examples might include tutorials on classical subjects like the adjoint approach to PDE-constrained optimization or the basics of design with CAD software, as well as  interactive  demos / coding  sessions focussed on recent work, such as recently released libraries or recently published methods. 
 
-Submissions should be two-page extended abstracts, formatted according to the NeurIPS style. 
+Submissions should be two-page extended abstracts, formatted according to the NeurIPS style. Reviewing will be single-blind.
 
 Submitted abstracts should describe:
 - the content which the tutorial will cover
@@ -85,12 +86,12 @@ Submitted abstracts should describe:
 - a concrete description of how the tutorial will run virtually and the technology platforms used
 - any relevant experience or background of the presenters
 
-- Submission deadline: Oct 02, 2020
-- Author notification: Oct 30, 2020
 
 ## Call for demonstrations
-We welcome submission of demonstrations. Submissions should be two-page extended abstracts, formatted according to the NeurIPS style. 
 Demonstrations should be interactive virtual experiences which showcase novel technology. The audience should be able to experience the demonstration in a brief time period - whether by "dropping in" for a few minutes, or by attending a short, regularly scheduled session. Interaction with the audience is a crucial element.
+
+Submissions should be two-page extended abstracts, formatted according to the NeurIPS style. Reviewing will be single-blind.
+
 Submitted abstracts should describe:
 - the technology demonstrated
 - the elements of novelty
@@ -107,7 +108,7 @@ Example topics include open research problems, the connections or differences be
 
 Authors of accepted discussion topics will be expected to help facilitate and take part in the discussion (possibly alongside organizers or other experts).
 
-Submissions should be one-to-two-page extended abstracts, formatted according to the NeurIPS style. 
+Submissions should be one-to-two-page extended abstracts, formatted according to the NeurIPS style. Reviewing will be single-blind.
 
 Submitted abstracts should describe:
 - the topic of discussion
