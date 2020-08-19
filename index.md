@@ -46,5 +46,9 @@ Our goals are to ''bridge the divide" between the engineering and machine learni
 # Call for papers
 Coming soon
 
-# Schedule
+# Call for tutorials/demos
 Coming soon
+
+# Call for discussions
+Coming soon
+
