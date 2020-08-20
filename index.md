@@ -59,12 +59,13 @@ All calls share the following dates:
 Websites for submission will be posted closer to the date.
 
 ## Call for papers
-Papers may be submitted on:
+We welcome papers consisting of:
 - original completed research or high-quality work-in-progress
-- investigations or expositions of open problems or important phenomena
-- datasets
+- investigations of open problems or important phenomena
+- datasets or benchmarks
+- position papers
 - reviews/synthesis of recent work
-- written tutorials on important concepts
+- written tutorials or expositions of important concepts
 - anything else relevant to our topics and of interest to the community 
 
 Papers must be formatted according to the NeurIPS 2020 style. 
