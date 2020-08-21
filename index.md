@@ -77,7 +77,7 @@ Papers must not have been previously presented or accepted for presentation at a
 
 
 ## Other contributions
-We also welcome submissions of proposals for demonstrations (of novel technology) and topics for round-table discussion. Submissions for both should be one-to-two page extended abstracts, formatted according to the NeurIPS style. Reviewing will be single-blind.
+We also welcome submissions of proposals for demonstrations and discussion topics. Submissions for both should be one-to-two page extended abstracts, formatted according to the NeurIPS style. Reviewing will be single-blind.
 
 ### Demonstrations
 Demonstrations should be interactive virtual experiences which showcase novel technology. The audience should be able to experience the demonstration in a brief time period - whether by "dropping in" for a few minutes, or by attending a short, regularly scheduled session. Interaction with the audience is a crucial element.
