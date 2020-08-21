@@ -80,7 +80,7 @@ Papers must not have been previously presented or accepted for presentation at a
 We also welcome submissions of proposals for demonstrations and discussion topics. Submissions for both should be one-to-two page extended abstracts, formatted according to the NeurIPS style. Successful proposals will be selected by the workshop organizers.
 
 ### Demonstrations
-Demonstrations should be interactive virtual experiences which showcase novel technology. The audience should be able to experience the demonstration in a brief time period - whether by "dropping in" for a short time, or by attending a short, regularly scheduled session. Interaction with the audience is a crucial element.
+Demonstrations should be interactive virtual experiences which showcase novel technology. Interaction with the audience is a crucial element.
 
 Submitted abstracts should describe:
 - the technology demonstrated
