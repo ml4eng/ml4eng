@@ -50,7 +50,7 @@ Our goals are to ''bridge the divide" between the engineering and machine learni
 
 <a name="calls"> 
 # Calls
-We welcome submission of papers as well as proposals for tutorials, demonstrations, and discussions to hold during the workshop.
+We welcome submission of papers as well as proposals for demonstrations and discussions to hold during the workshop.
     
 All calls share the following dates:
 - Submission deadline: Oct 02, 2020
@@ -76,7 +76,7 @@ Reviewing will be double-blind, so all papers must be anonymized.
 Papers must not have been previously presented or accepted for presentation at an archival venue. However, this workshop is non-archival, and papers submitted to this workshop may be (concurrently or later) submitted to an archival venue.
 
 
-## Call for tutorials
+## Call for contributions
 Tutorials should be 30-45 minute hands-on mini-hackathons or demonstrator-led interactive sessions with specific software or methods: examples might include tutorials on classical subjects like the adjoint approach to PDE-constrained optimization or the basics of design with CAD software, as well as  interactive  demos / coding  sessions focussed on recent work, such as recently released libraries or recently published methods. 
 
 Submissions should be two-page extended abstracts, formatted according to the NeurIPS style. Reviewing will be single-blind.
@@ -89,10 +89,11 @@ Submitted abstracts should describe:
 - any relevant experience or background of the presenters
 
 
-## Call for demonstrations
-Demonstrations should be interactive virtual experiences which showcase novel technology. The audience should be able to experience the demonstration in a brief time period - whether by "dropping in" for a few minutes, or by attending a short, regularly scheduled session. Interaction with the audience is a crucial element.
+## Other contributions
+We also welcome submissions of proposals for demonstrations (of novel technology) and topics for round-table discussions. Submissions for both should be one-to-two page extended abstracts, formatted according to the NeurIPS style. Reviewing will be single-blind.
 
-Submissions should be two-page extended abstracts, formatted according to the NeurIPS style. Reviewing will be single-blind.
+### Demonstrations
+Demonstrations should be interactive virtual experiences which showcase novel technology. The audience should be able to experience the demonstration in a brief time period - whether by "dropping in" for a few minutes, or by attending a short, regularly scheduled session. Interaction with the audience is a crucial element.
 
 Submitted abstracts should describe:
 - the technology demonstrated
@@ -102,15 +103,12 @@ Submitted abstracts should describe:
 - a concrete description of how the demo will run virtually and the technology platforms used
 
 
-
-## Call for discussions
-Discussions will take place in a 30-45 minute facilitated round-table format. Topics should be of interest to the community, and should encourage building connections and collaborations across attendees.
+### Demonstrations
+Discussions will take place in a 30-45 minute round-table format. Topics should be of interest to the community, and should encourage building connections and collaborations across attendees.
 
 Example topics include open research problems, the connections or differences between specific techniques used by different communities, discussions about how research is done or how communities interact, or anything else which meets the aforementioned goals.
 
-Authors of accepted discussion topics will be expected to help facilitate and take part in the discussion (possibly alongside organizers or other experts).
-
-Submissions should be one-to-two-page extended abstracts, formatted according to the NeurIPS style. Reviewing will be single-blind.
+Authors of accepted discussion topics should be willing to help facilitate and take part in the discussion (possibly alongside workshop organizers or topic experts).
 
 Submitted abstracts should describe:
 - the topic of discussion
