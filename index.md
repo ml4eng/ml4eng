@@ -77,7 +77,7 @@ Papers must not have been previously presented or accepted for presentation at a
 
 
 ## Other contributions
-We also welcome submissions of proposals for demonstrations (of novel technology) and topics for round-table discussions. Submissions for both should be one-to-two page extended abstracts, formatted according to the NeurIPS style. Reviewing will be single-blind.
+We also welcome submissions of proposals for demonstrations (of novel technology) and topics for round-table discussion. Submissions for both should be one-to-two page extended abstracts, formatted according to the NeurIPS style. Reviewing will be single-blind.
 
 ### Demonstrations
 Demonstrations should be interactive virtual experiences which showcase novel technology. The audience should be able to experience the demonstration in a brief time period - whether by "dropping in" for a few minutes, or by attending a short, regularly scheduled session. Interaction with the audience is a crucial element.
@@ -95,7 +95,7 @@ Discussions will take place in a 30-45 minute round-table format. Topics should 
 
 Example topics include open research problems, the connections or differences between specific techniques used by different communities, discussions about how research is done or how communities interact, or anything else which meets the aforementioned goals.
 
-Authors of accepted discussion topics should be willing to help facilitate and take part in the discussion (possibly alongside workshop organizers or topic experts).
+Authors of accepted discussion topics should be willing to introduce the topic and to take part in the discussion.
 
 Submitted abstracts should describe:
 - the topic of discussion
