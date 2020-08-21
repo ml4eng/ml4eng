@@ -76,19 +76,6 @@ Reviewing will be double-blind, so all papers must be anonymized.
 Papers must not have been previously presented or accepted for presentation at an archival venue. However, this workshop is non-archival, and papers submitted to this workshop may be (concurrently or later) submitted to an archival venue.
 
 
-## Call for contributions
-Tutorials should be 30-45 minute hands-on mini-hackathons or demonstrator-led interactive sessions with specific software or methods: examples might include tutorials on classical subjects like the adjoint approach to PDE-constrained optimization or the basics of design with CAD software, as well as  interactive  demos / coding  sessions focussed on recent work, such as recently released libraries or recently published methods. 
-
-Submissions should be two-page extended abstracts, formatted according to the NeurIPS style. Reviewing will be single-blind.
-
-Submitted abstracts should describe:
-- the content which the tutorial will cover
-- how this will be covered (e.g. interactive coding, live instructor demonstration, ...)
-- intended audience of the tutorial, and how this will be relevant to them
-- a concrete description of how the tutorial will run virtually and the technology platforms used
-- any relevant experience or background of the presenters
-
-
 ## Other contributions
 We also welcome submissions of proposals for demonstrations (of novel technology) and topics for round-table discussions. Submissions for both should be one-to-two page extended abstracts, formatted according to the NeurIPS style. Reviewing will be single-blind.
 
