@@ -90,7 +90,7 @@ Submitted abstracts should describe:
 - a concrete description of how the demo will run virtually and the technology platforms used
 
 
-### Demonstrations
+### Discussions
 Discussions will take place in a 30-45 minute round-table format. Topics should be of interest to the community, and should encourage building connections and collaborations across attendees.
 
 Example topics include open research problems, the connections or differences between specific techniques used by different communities, discussions about how research is done or how communities interact, or anything else which meets the aforementioned goals.
