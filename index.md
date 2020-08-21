@@ -59,7 +59,7 @@ All calls share the following dates:
 Websites for submission will be posted closer to the date.
 
 ## Call for papers
-We welcome papers consisting of:
+We welcome papers on subjects related to the workshop topics consisting of:
 - original completed research or high-quality work-in-progress
 - investigations of open problems or important phenomena
 - datasets or benchmarks
