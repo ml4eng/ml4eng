@@ -90,7 +90,7 @@ Submitted abstracts should describe:
 
 
 ### Discussions
-Discussions will take place in a 30-45 minute round-table format. Topics should be of interest to the community, and should encourage building connections and collaborations across attendees. Topics can be technical (open research problems, connections or differences between specific techniques, etc) or non-technical (topics around how research is done, how communities interact, etc).
+Discussions will take place in a 30-45 minute round-table format. Topics should be of interest to the community, and should encourage building connections and collaborations across attendees. Topics can be technical (open research problems, connections or differences between specific techniques, etc), non-technical (topics around how research is done, how communities interact, etc), or anywhere in between.
 
 Authors of accepted discussion topics should be willing to introduce the topic and to take part in the discussion.
 
