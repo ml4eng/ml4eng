@@ -77,16 +77,15 @@ Papers must not have been previously presented or accepted for presentation at a
 
 
 ## Other contributions
-We also welcome submissions of proposals for demonstrations and discussion topics. Submissions for both should be one-to-two page extended abstracts, formatted according to the NeurIPS style. Reviewing will be single-blind.
+We also welcome submissions of proposals for demonstrations and discussion topics. Submissions for both should be one-to-two page extended abstracts, formatted according to the NeurIPS style. Successful proposals will be selected by the workshop organizers.
 
 ### Demonstrations
-Demonstrations should be interactive virtual experiences which showcase novel technology. The audience should be able to experience the demonstration in a brief time period - whether by "dropping in" for a few minutes, or by attending a short, regularly scheduled session. Interaction with the audience is a crucial element.
+Demonstrations should be interactive virtual experiences which showcase novel technology. The audience should be able to experience the demonstration in a brief time period - whether by "dropping in" for a short time, or by attending a short, regularly scheduled session. Interaction with the audience is a crucial element.
 
 Submitted abstracts should describe:
 - the technology demonstrated
 - the elements of novelty
 - the audience-interactive part
-- whether the demonstration will run in an asynchronous "drop in" fashion or with scheduled sessions
 - a concrete description of how the demo will run virtually and the technology platforms used
 
 
@@ -101,8 +100,7 @@ Submitted abstracts should describe:
 - the topic of discussion
 - any relevant background material
 - why the topic is of interest to this community
-- an idea of different perspectives that different sub-communities might bring to the table
-- how it might encourage building connections and collaborations
+- the ideal outcomes of the discussion
 - any relevant experience or background of the authors
 
 <a name="schedule"> 
