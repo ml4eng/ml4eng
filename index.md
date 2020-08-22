@@ -49,17 +49,8 @@ Our goals are to ''bridge the divide" between the engineering and machine learni
 - [Vladlen Koltun](http://vladlen.info/)
 
 <a name="calls"> 
-# Calls
-We welcome submission of papers as well as proposals for demonstrations and discussions to hold during the workshop.
-    
-All calls share the following dates:
-- Submission deadline: Oct 02, 2020
-- Author notification: Oct 30, 2020
-
-Websites for submission will be posted closer to the date.
-
-## Call for papers
-We welcome papers on subjects related to the workshop topics consisting of:
+# Call for papers
+We welcome submission papers on subjects related to the workshop topics consisting of:
 - original completed research or high-quality work-in-progress
 - investigations of open problems or important phenomena
 - datasets or benchmarks
@@ -68,6 +59,10 @@ We welcome papers on subjects related to the workshop topics consisting of:
 - written tutorials or expositions of important concepts
 - anything else relevant to our topics and of interest to the community 
 
+Relevant dates:
+- Submission deadline: Oct 02, 2020
+- Author notification: Oct 30, 2020
+
 Papers must be formatted according to the NeurIPS 2020 style. 
 There is a hard maximum of 6 pages (excluding references or supplementary materials). Shorter is better: we encourage authors to use as few pages as they can, while adequately explaining their work and topic.
     
@@ -75,31 +70,6 @@ Reviewing will be double-blind, so all papers must be anonymized.
 
 Papers must not have been previously presented or accepted for presentation at an archival venue. However, this workshop is non-archival, and papers submitted to this workshop may be (concurrently or later) submitted to an archival venue.
 
-
-## Other contributions
-We also welcome submissions of proposals for demonstrations and discussion topics. Submissions for both should be one-to-two page extended abstracts, formatted according to the NeurIPS style. Successful proposals will be selected by the workshop organizers.
-
-### Demonstrations
-Demonstrations should be interactive virtual experiences which showcase novel technology. Interaction with the audience is a crucial element.
-
-Submitted abstracts should describe:
-- the technology demonstrated
-- the elements of novelty
-- the audience-interactive part
-- a concrete description of how the demo will run virtually and the technology platforms used
-
-
-### Discussions
-Discussions will take place in a 30-45 minute round-table format. Topics should be of interest to the community, and should encourage building connections and collaborations across attendees. Topics can be technical (open research problems, connections or differences between specific techniques, etc), non-technical (topics around how research is done, how communities interact, etc), or anywhere in between.
-
-Authors of accepted discussion topics should be willing to introduce the topic and to take part in the discussion.
-
-Submitted abstracts should describe:
-- the topic of discussion
-- any relevant background material
-- why the topic is of interest to this community
-- the ideal outcomes of the discussion
-- any relevant experience or background of the authors
 
 <a name="schedule"> 
 # Schedule 
