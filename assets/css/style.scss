@@ -10,7 +10,7 @@ body {
   color: $body-text-color;
 }
 
-$header-bg-color-secondary: #d48106 $default;
+$header-bg-color-secondary: #d48106 !default;
 
 @import "{{ site.theme }}";
 
