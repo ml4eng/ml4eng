@@ -100,10 +100,12 @@ input, select, textarea {
 
 	body {
 		background-color: #ff9999;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(55deg, #a18b78 25%, #70392f 75%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(55deg, #a18b78 25%, #70392f 75%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(55deg, #a18b78 25%, #70392f 75%);
-		background-image: url("images/overlay.png"), linear-gradient(55deg, #a18b78 25%, #70392f 75%);
+		background-image: url("images/bronze2.jpg"), -moz-linear-gradient(55deg, #a18b78 25%, #70392f 75%);
+		background-image: url("images/bronze2.jpg"), -webkit-linear-gradient(55deg, #a18b78 25%, #70392f 75%);
+		background-image: url("images/bronze2.jpg"), -ms-linear-gradient(55deg, #a18b78 25%, #70392f 75%);
+		background-image: url("images/bronze2.jpg"), linear-gradient(55deg, #a18b78 25%, #70392f 75%);
+		background-repeat: no-repeat;
+		background-size: cover;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3094,14 +3096,14 @@ input, select, textarea {
 			}
 
 			#header.alt > * {
-				-moz-transition: opacity 3s ease;
-				-webkit-transition: opacity 3s ease;
-				-ms-transition: opacity 3s ease;
-				transition: opacity 3s ease;
-				-moz-transition-delay: 0.5s;
-				-webkit-transition-delay: 0.5s;
-				-ms-transition-delay: 0.5s;
-				transition-delay: 0.5s;
+				-moz-transition: opacity 0.3s ease;
+				-webkit-transition: opacity 0.3s ease;
+				-ms-transition: opacity 0.3s ease;
+				transition: opacity 0.3s ease;
+				-moz-transition-delay: 0.05s;
+				-webkit-transition-delay: 0.05s;
+				-ms-transition-delay: 0.05s;
+				transition-delay: 0.05s;
 				opacity: 1;
 			}
 
