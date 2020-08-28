@@ -16,14 +16,14 @@ and ML-driven methods for efficient design optimization.
 However, many questions remain to be answered before these methods become practically useful. 
 
 Examples of research topics we wish to see addressed include, but are not limited to:
-- Learning surrogate and reduced-order models for physical simulators which reduce computational costs while maintaining accuracy against strong baselines,
-- Ensuring learned surrogates reliably generalize across scenarios for which they might be used, and provide error estimates and measures of uncertainty,
-- Using machine learning to accelerate design optimization, or system identification and control, while respecting constraints, remaining robust to model or simulator error, and producing designs, estimators and policies which are practical in the real world,
-- Developing ML tools which can assist design engineers to more effectively specify, explore and evaluate a space of possible designs,
+- Learning surrogate and reduced-order models for physical simulators,
+- Ensuring learned surrogates reliably generalize, or provide error estimates and measures of uncertainty,
+- Using machine learning to accelerate design optimization or system identification and control,
+- Developing ML tools which can assist design engineers to more effectively specify, explore and evaluate possible designs,
 - Using ML to accelerate fast prototyping and decentralized or additive manufacturing,
-- Integrating ML tools with preexisting engineering tools and workflows to minimize friction and draw benefits from both old and new,
-- Development of software and libraries which enable all of the above,
-- Identification of applications and pressing challenges/opportunities, related or unrelated to the above points, in the application of ML to engineering workflows.
+- Integrating ML tools with preexisting engineering tools and workflows,
+- Development of software and libraries to enable all of the above,
+- Identification of applications and pressing challenges/opportunities in the application of ML to engineering.
 
 Our goals are to ''bridge the divide" between the engineering and machine learning communities, and to provide a venue for discussion of challenges and promising emerging methods for applying ML to engineering.
 </font>
