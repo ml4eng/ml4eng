@@ -100,10 +100,10 @@ input, select, textarea {
 
 	body {
 		background-color: #ff9999;
-		background-image: url("images/bronze2.jpg"), -moz-linear-gradient(55deg, #a18b78 25%, #70392f 75%);
-		background-image: url("images/bronze2.jpg"), -webkit-linear-gradient(55deg, #a18b78 25%, #70392f 75%);
-		background-image: url("images/bronze2.jpg"), -ms-linear-gradient(55deg, #a18b78 25%, #70392f 75%);
-		background-image: url("images/bronze2.jpg"), linear-gradient(55deg, #a18b78 25%, #70392f 75%);
+		background-image: url("images/bronze_2.jpg"), -moz-linear-gradient(55deg, #a18b78 25%, #70392f 75%);
+		background-image: url("images/bronze_2.jpg"), -webkit-linear-gradient(55deg, #a18b78 25%, #70392f 75%);
+		background-image: url("images/bronze_2.jpg"), -ms-linear-gradient(55deg, #a18b78 25%, #70392f 75%);
+		background-image: url("images/bronze_2.jpg"), linear-gradient(55deg, #a18b78 25%, #70392f 75%);
 		background-repeat: no-repeat;
 		background-size: cover;
 	}
