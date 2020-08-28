@@ -5,7 +5,6 @@ layout: default
 <a name="about"> 
 # About
 
-<font size="3">
 Modern engineering workflows are built on computational tools for specifying models and designs, 
 for numerical analysis of system behavior, and for optimization, model-fitting and rational design. 
 How can machine learning be used to empower the engineer?
@@ -27,7 +26,6 @@ Examples of research topics we wish to see addressed include, but are not limite
 - Identification of applications and pressing challenges/opportunities in the application of ML to engineering.
 
 Our goals are to ''bridge the divide" between the engineering and machine learning communities, and to provide a venue for discussion of challenges and promising emerging methods for applying ML to engineering.
-</font>
 
 <a name="organizers"> 
 # Organizers
