@@ -62,12 +62,14 @@ We welcome submission papers on subjects related to the workshop topics consisti
 Relevant dates:
 - Submission deadline: Oct 02, 2020
 - Author notification: Oct 30, 2020
+- Camera ready deadline: Nov 23, 2020
 
 Submissions should be short anonymized papers up to 4 pages (excluding references and supplementary materials) formatted according to the NeurIPS 2020 style. 
 While you may submit supplementary material or appendices, all essential details should be in the main paper, as reviewers are not required to read this supplementatry material.
     
 Papers must not have been previously presented or accepted for presentation at an archival venue. However, this workshop is non-archival, and papers submitted to this workshop may be (concurrently or later) submitted to an archival venue.
 
+Accepted works will be presented as virtual posters, with an accopmanying 5-minute pre-recorded video. At least one author of each accepted work must register for the NeurIPS workshops and attend the virtual poster session.
 
 <a name="schedule"> 
 # Schedule 
